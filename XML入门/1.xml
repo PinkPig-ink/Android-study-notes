@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<class>
+    <stu id="001">
+        <name>杨过</name>
+        <sex>男</sex>
+        <age>20</age>
+    </stu>
+    <stu id="002">
+        <name>小米</name>
+        <sex>男</sex>
+        <age>29</age>
+    </stu>
+</class>
